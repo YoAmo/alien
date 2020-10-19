@@ -1,3 +1,3 @@
-# Curso de GitHub pages y Jekyll
+Curso de GitHub pages y Jekyll
 
 Espero que este si me sirva...
