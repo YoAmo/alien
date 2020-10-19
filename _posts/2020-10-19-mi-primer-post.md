@@ -3,8 +3,6 @@ title: "Parece todo tan lejano"
 date: 2020-10-19
 ---
 
-# Parece todo muy lejano
-
 Es curioso, pero no por vivir en Sudamérica estás más al día sobre las cosas que ocurren aquí, en países vecinos.
 Creando una cuenta nueva en twitter he leído sobre la victoria de Luis Arce en las elecciones de Bolivia.
 No voy a esconder mi _ligera_ tendencia hacia la izquierda.
