@@ -1,3 +1,8 @@
+---
+title: "Parece todo tan lejano"
+date: 2020-10-19
+---
+
 # Parece todo muy lejano
 
 Es curioso, pero no por vivir en Sudamérica estás más al día sobre las cosas que ocurren aquí, en países vecinos.
